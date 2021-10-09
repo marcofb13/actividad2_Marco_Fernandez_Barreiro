@@ -1,0 +1,24 @@
+
+<tweet>
+	<usuario nombre="Marco"
+		alias="marcofb"
+		correo="marco.ferbar@gmail.com"
+		foto="foto.jpg">
+		
+	</usuario>
+	<contenido> lo que contine </contenido>
+	<retweets> 50 </retweets>
+	<me_gusta> 120 </me_gusta>
+	<seguidores>
+		<seguidor>juanpc</seguidor>
+		<seguidor>ivansd</seguidor>
+		<seguidor>pablorc</seguidor>
+	</seguidores>
+	<comentarios>
+		<comentario> comentario1</comentario>
+		<comentario> comentario2</comentario> 
+		<comentario> comentario3</comentario> 
+		<comentario> comentario4</comentario> 
+		<comentario> comentario5</comentario> 
+	</comentarios>
+</tweet>

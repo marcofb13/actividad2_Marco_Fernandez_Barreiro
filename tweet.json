@@ -1,0 +1,24 @@
+{
+	"usuario": {
+				"nombre":"Marco",
+				"alias":"marcofb",
+				"correo":"marco.ferbar@gmail.com",
+				"foto":"foto.jpg",
+				}
+	"contenido": "lo que contiene",
+	"retweets": "50",
+	"me gusta": "120",
+	"seguidores":{
+				"seguidor":"juanpc",
+				"seguidor":"ivansd",
+				"seguidor":"pablorc",
+				}
+	"comentarios":{
+				"comentario": "comentario1",
+				"comentario": "comentario2",
+				"comentario": "comentario3",
+				"comentario": "comentario4",
+				"comentario": "comentario5",
+
+
+}
